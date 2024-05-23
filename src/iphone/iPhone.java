@@ -65,7 +65,7 @@ public class iPhone implements MusicPlayer, Phone, InternetBrowser {
         meuIphone.iniciarCorreioVoz();
 
         // Testando Navegador na Internet
-        meuIphone.exibirPagina("http://www.google.com");
+        meuIphone.exibirPagina("https://www.linkedin.com/in/kevyncode");
         meuIphone.adicionarNovaAba();
         meuIphone.atualizarPagina();
     }
